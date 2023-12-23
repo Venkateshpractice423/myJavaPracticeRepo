@@ -1,0 +1,11 @@
+package com.interview;
+
+import org.testng.annotations.Test;
+
+public class testngpratice {
+
+	@Test
+	public void practise() {
+		System.out.println("print");
+	}
+}
