@@ -1,0 +1,11 @@
+package com.java.prac;
+
+import org.testng.annotations.Test;
+
+public class Testngpractice {
+
+	@Test
+	public void testgoogle() {
+		
+	}
+}
